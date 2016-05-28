@@ -4,7 +4,7 @@ const App = React.createClass({
   render() {
     return(
       <div>
-        <img src="client/static/duck.jpg" alt="I am a duck" />
+        <img src="/images/duck.jpg" alt="I am a duck" />
       </div>
     )
   }
