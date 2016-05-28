@@ -1,7 +1,5 @@
-.DS_STORE
-*.log
+# Created by .ignore support plugin (hsz.mobi)
 
-node_modules
+.idea/encodings.xml
 
-dist
-coverage
+.idea/jsLibraryMappings.xml
