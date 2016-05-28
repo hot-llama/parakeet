@@ -1,5 +1,1 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-.idea/encodings.xml
-
-.idea/jsLibraryMappings.xml
+node_modules/

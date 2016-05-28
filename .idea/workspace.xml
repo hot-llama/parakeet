@@ -2,95 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e3c006f-ced5-47eb-b108-b3ba57d82dba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.reduxrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/compile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/blueprint/files/blueprints/__name__/files/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/blueprint/files/blueprints/__name__/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/blueprint/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/duck/files/__root__/redux/modules/__name__.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/duck/files/__test__/redux/modules/__name__.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/duck/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/dumb/files/__root__/components/__name__/__name__.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/dumb/files/__root__/components/__name__/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/dumb/files/__test__/components/__name__.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/dumb/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/form/files/__root__/forms/__name__Form/__name__Form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/form/files/__root__/forms/__name__Form/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/form/files/__test__/forms/__name__Form.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/form/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/layout/files/__root__/layouts/__name__Layout/__name__Layout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/layout/files/__root__/layouts/__name__Layout/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/layout/files/__test__/layouts/__name__Layout.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/layout/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/smart/files/__root__/containers/__name__/__name__.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/smart/files/__root__/containers/__name__/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/smart/files/__test__/containers/__name__.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/smart/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/view/files/__root__/views/__name__View/__name__View.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/view/files/__root__/views/__name__View/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/view/files/__test__/views/__name__View.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blueprints/view/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/webpack-compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/webpack.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodemon.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/lib/apply-express-middleware.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/middleware/webpack-dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/middleware/webpack-hmr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Counter/Counter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Counter/Counter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Counter/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/containers/AppContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/CoreLayout/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Counter/containers/CounterContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Counter/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Counter/modules/counter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Home/assets/Duck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Home/components/HomeView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Home/components/HomeView.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Home/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/humans.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/store/createStore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/store/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styles/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styles/core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/components/Counter/Counter.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/components/Header/Header.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/framework.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/layouts/CoreLayout.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/routes/Counter/components/CounterView.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/routes/Counter/index.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/routes/Counter/modules/counter.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/routes/Home/components/HomeView.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/routes/Home/index.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test-bundler.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="$PROJECT_DIR$/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/react_redux_starter_kit_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/imports/app.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/actions/actionCreators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/PhotoGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/Single.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/data/comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/data/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/data/posts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/reducers/comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/reducers/posts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/reduxstagram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/styles/_animations.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/styles/_normalize.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/styles/_typography.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/styles/style.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webpack.config.prod.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/parakeet.iml" afterPath="$PROJECT_DIR$/.idea/parakeet.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parakeet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,6 +40,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -108,23 +48,91 @@
     <favorites_list name="parakeet" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <marker date="1464471059000" expanded="true" signature="56:87" placeholder="{&quot;start&quot;: &quot;meteor run&quot;...}" />
+                <marker date="1464471059000" expanded="true" signature="107:198" placeholder="{&quot;meteor-node-stubs&quot;: &quot;~0.2.0&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/react-dom/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/imports/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/components/Main.js" />
+        <option value="$PROJECT_DIR$/client/components/PhotoGrid.js" />
+        <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/client/app.js" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/client/imports/app.js" />
+      </list>
+    </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+    <option name="x" value="395" />
+    <option name="y" value="55" />
+    <option name="width" value="1280" />
+    <option name="height" value="693" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -156,123 +164,49 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
+              <option name="myItemId" value="react-redux-starter-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parakeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
+              <option name="myItemId" value="imports" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,10 +223,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="editor.config.accepted" value="true" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.meteor.project" value="true" />
+    <property name="js.meteor.library.was.enabled" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -325,6 +261,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -351,6 +293,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5e3c006f-ced5-47eb-b108-b3ba57d82dba" name="Default" comment="" />
@@ -359,34 +304,36 @@
       <option name="presentableId" value="Default" />
       <updated>1464466575174</updated>
       <workItem from="1464466577759" duration="2379000" />
+      <workItem from="1464469625869" duration="1211000" />
+      <workItem from="1464470959860" duration="1122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2379000" />
+    <option name="totallyTimeSpent" value="4712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="741" extended-state="6" />
-    <editor active="false" />
+    <frame x="395" y="55" width="1280" height="693" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -402,11 +349,75 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blueprints/duck/index.js">
+    <entry file="file://$PROJECT_DIR$/blueprints/duck/index.js" />
+    <entry file="file://$PROJECT_DIR$/blueprints/dumb/index.js" />
+    <entry file="file://$PROJECT_DIR$/blueprints/layout/index.js" />
+    <entry file="file://$PROJECT_DIR$/blueprints/blueprint/index.js" />
+    <entry file="file://$PROJECT_DIR$/.reduxrc" />
+    <entry file="file://$PROJECT_DIR$/bin/server.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/reducers.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/createStore.js" />
+    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.scss" />
+    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Counter/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/Counter/containers/CounterContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Counter/Counter.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/Counter/modules/counter.js" />
+    <entry file="file://$PROJECT_DIR$/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/AppContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/Home/components/HomeView.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/Counter/index.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/client/components/Single.js" />
+    <entry file="file://$PROJECT_DIR$/client/reducers/comments.js" />
+    <entry file="file://$PROJECT_DIR$/client/store.js" />
+    <entry file="file://$PROJECT_DIR$/client/data/posts.js" />
+    <entry file="file://$PROJECT_DIR$/client/data/config.js" />
+    <entry file="file://$PROJECT_DIR$/client/data/comments.js" />
+    <entry file="file://$PROJECT_DIR$/client/reduxstagram.js" />
+    <entry file="file://$PROJECT_DIR$/client/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/client/reducers/posts.js" />
+    <entry file="file://$PROJECT_DIR$/client/components/Main.js" />
+    <entry file="file://$PROJECT_DIR$/client/components/PhotoGrid.js" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.dev.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <marker date="1464471059000" expanded="true" signature="56:87" placeholder="{&quot;start&quot;: &quot;meteor run&quot;...}" />
+            <marker date="1464471059000" expanded="true" signature="107:198" placeholder="{&quot;meteor-node-stubs&quot;: &quot;~0.2.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -414,170 +425,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/dumb/index.js">
+    <entry file="file://$PROJECT_DIR$/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="186">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/layout/index.js">
+    <entry file="file://$PROJECT_DIR$/client/imports/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/blueprint/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.reduxrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/reducers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/createStore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-882">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Counter/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Counter/containers/CounterContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Counter/Counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Counter/modules/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/CoreLayout/CoreLayout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/AppContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Home/components/HomeView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Counter/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="155">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
