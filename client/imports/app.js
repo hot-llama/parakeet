@@ -1,12 +1,12 @@
 import React from 'react'
-import SpeechInput from './components/speechInput'
+import SpeechInputContainer from './components/speechInputContainer'
 
 const App = React.createClass({
   render() {
     return(
       <div>
         <img src="/images/duck.jpg" alt="I am a duck" />
-        <SpeechInput />
+        <SpeechInputContainer />
       </div>
     )
   }

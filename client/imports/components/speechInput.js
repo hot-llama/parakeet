@@ -1,9 +1,9 @@
 import React from 'react'
 
-const SpeechInput = () => {
+const SpeechInput = (props) => {
   return(
     <div>
-      <input type="text" />
+      <input type="text" onChange={props.getInput} />
     </div>
   )
 };
